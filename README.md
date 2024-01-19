@@ -1,5 +1,8 @@
-### 🌿 Mohamed Lamrini
+[À Propos de Moi](#about) | [Langages de Programmation](#languages)
 
-👋 Hello, I'm Mohamed Lamrini. Alongside my engineering studies, I am a keen coder, proficient in various programming languages and frameworks. My ongoing commitment involves integrating mathematical concepts into real-world computing challenges.
+## <a name="about"></a>À Propos de Moi
+Ici, vous pouvez écrire quelque chose sur vous-même.
 
+## <a name="languages"></a>Langages de Programmation
+Listez ici les langages de programmation que vous maîtrisez.
 
