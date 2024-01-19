@@ -1,5 +1,3 @@
-[🌿 Mohamed Lamrini](#about) | 
-
 ## <a name="about"></a>🌿 Mohamed Lamrini
 
 
